@@ -11,7 +11,7 @@ function preload() {
     //load the images here
     backgroundImg=loadImage("images/garden.png");
     catSitting=loadAnimation("images/tomOne.png");
-     catRunning=loadAnimation("images/tomTwo.png","Images/tomThree.png");
+     catRunning=loadAnimation("images/tomTwo.png","images/tomThree.png");
     mouseRunning=loadImage("images/jerryOne.png","images/jerryTwo.png","images/jerryThree.png","images/jerryFour.png");
     
 }
